@@ -92,41 +92,58 @@ Portföy sitesi verilerinin yönetimi için kullanıcı dostu bir admin paneli d
 
 <img src="https://github.com/user-attachments/assets/4134fd1a-cbdb-4d24-b642-f6aa2bf30bbf" width:700>
 
-###### 🏠 Admin Profile Page
+###### 🔎 Admin Profile Page
 
-<img src="https://github.com/user-attachments/assets/f9817bf5-02eb-4192-b787-233d7468b924" width:700>
+<img src="https://github.com/user-attachments/assets/0afbeccc-eda5-4a9b-a198-6e7d680eb3f9" width:700>
 
-###### 🏠 Home Page
+###### 🪪 Password Change Page
 
-<img src="" width:700>
+<img src="https://github.com/user-attachments/assets/4d47ff5e-c2ec-44f6-96f6-a7d919a59234" width:700>
 
-###### 🏠 Home Page
+###### 📈 Dashboard Page
 
-<img src="" width:700>
+<img src="https://github.com/user-attachments/assets/7f5b6788-67f4-4e83-8090-0a939f125ca2" width:700>
 
-###### 🏠 Home Page
+###### ➡️ Feature Page
 
-<img src="" width:700>
+<img src="https://github.com/user-attachments/assets/e338e11f-945c-4ec1-9958-e5c18ca3acae" width:700>
 
-###### 🏠 Home Page
+###### 🪪 About Page
 
-<img src="" width:700>
+<img src="https://github.com/user-attachments/assets/c1af8444-8d59-4443-9da1-4258f651ee47" width:700>
 
-###### 🏠 Home Page
+###### 📋 Skill Page
 
-<img src="" width:700>
+<img src="https://github.com/user-attachments/assets/38e78b4d-0336-4812-a4a6-015eff3b844f" width:700>
 
-###### 🏠 Home Page
+###### 🔌 Experience Page
 
-<img src="" width:700>
+<img src="https://github.com/user-attachments/assets/aba6fe62-d4a0-4823-a676-ca4a59c3b26a" width:700>
 
-###### 🏠 Home Page
+###### 🔌 Experience (With Fluent Validation)
 
-<img src="" width:700>
-    
+<img src="https://github.com/user-attachments/assets/ed26fa14-21d2-4dc0-9a37-d5bd0a195974" width:700>
+
+###### 📋 Project Page
+
+<img src="https://github.com/user-attachments/assets/613a79e6-0bc0-4998-88d1-afa8c8574b1f" width:700>
+
+###### 📋 Project Page (With Fluent Validation)
+
+<img src="https://github.com/user-attachments/assets/31b7e4f3-2c14-4f56-94b0-25f5a999fabc" width:700>
+
+###### 👤 Testimonial Page
+
+<img src="https://github.com/user-attachments/assets/1da8bdc1-94bc-4920-86f8-4e9e74b7670a" width:700>
+
+###### 👤 Testimonial Page (With Fluent Validation)
+
+<img src="https://github.com/user-attachments/assets/854ef88d-c915-47d4-98a3-9ccdb9fa60bf" width:700>
+
+###### ✉️ Messages Page
+
+<img src="https://github.com/user-attachments/assets/471ce660-7732-440b-b8a1-cf6376b0c236" width:700>
 
 
 
-    
 
------
