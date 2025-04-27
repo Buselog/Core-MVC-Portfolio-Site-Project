@@ -11,10 +11,6 @@ Portföy sitesi verilerinin yönetimi için kullanıcı dostu bir admin paneli d
 
     - ViewComponent kullanımı ve responsive tasarım prensipleriyle geliştirilen, modern ve ölçeklenebilir bir proje geliştirimi.
     
-###### 🌟 Bootstrap Kullanımı
-
-    - Responsive (duyarlı) tasarım ve görsel bileşenler için kullanılmıştır.
-    
 ###### 🌟 Entity Framework Core ile Veritabanı İşlemleri( SQL Server - Code First Yaklaşım)
 
     - PortfolioContext sınıfı üzerinden veritabanı işlemleri gerçekleştirilmiştir. 
@@ -44,6 +40,10 @@ Portföy sitesi verilerinin yönetimi için kullanıcı dostu bir admin paneli d
     - Kullanıcı mevcut şifresini doğrulayarak yeni şifre belirleyebilmektedir.
     - Şifre değişimi sırasında hata kontrolleri yapılmış (örneğin, mevcut şifrenin doğru girilmesi ve yeni şifrelerin eşleşmesi).
 
+###### 🌟 Bootstrap Kullanımı
+
+    - Responsive (duyarlı) tasarım ve görsel bileşenler için kullanılmıştır.
+
 ----- 
 
 
@@ -55,27 +55,27 @@ Portföy sitesi verilerinin yönetimi için kullanıcı dostu bir admin paneli d
 
 <img src="https://github.com/user-attachments/assets/d3f52eca-e2f7-476a-bafc-6b050e7b35e7" width:700>
 
-###### 🏠 About Section
+###### 🪪 About Section
 
 <img src="https://github.com/user-attachments/assets/4a77e8f3-ca96-43bc-81cc-72211bea44e4" width:700>
 
-###### 🏠 Experience Section
+###### 🔎 Experience Section
 
 <img src="https://github.com/user-attachments/assets/745447c6-72ba-4f77-9fd3-b9effd26272c" width:700>
 
-###### 🏠 Project Section
+###### 📋 Project Section
 
 <img src="https://github.com/user-attachments/assets/03ab2fee-5036-4dba-a465-3b348f05ccf5" width:700>
 
-###### 🏠 Testimonial Section
+###### 👤 Testimonial Section
 
 <img src="https://github.com/user-attachments/assets/a108b29e-2387-476c-be70-8f79cd28aa31" width:700>
 
-###### 🏠 Statistic Section
+###### 📈 Statistic Section
 
 <img src="https://github.com/user-attachments/assets/fde7dc43-738c-419d-9921-8214c021efc6" width:700>
 
-###### 🏠 Footer Section
+###### 🔌 Footer Section
 
 <img src="https://github.com/user-attachments/assets/436b23c4-5a4b-4183-9163-a159d603010d" width:700>
 
