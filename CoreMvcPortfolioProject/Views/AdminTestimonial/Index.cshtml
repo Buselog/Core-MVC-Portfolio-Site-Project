@@ -1,0 +1,54 @@
+﻿@model List<CoreMvcPortfolioProject.DAL.Entities.Testimonial>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<div class="card-title">Testimonial Table</div>
+					</div>
+					<div class="card-body">
+						<table class="table table-hover">
+							<thead>
+								<tr>
+									<th scope="col"><b>Testimonial Id</b></th>
+									<th scope="col"><b>Name</b></th>
+									<th scope="col"><b>Title</b></th>
+									<th scope="col"><b>Description</b></th>
+									<th scope="col"><b>Testimonial Image Url</b></th>
+									<th scope="col"><b>Operations</b></th>
+								</tr>
+							</thead>
+							<tbody>
+								@foreach (var item in Model)
+								{
+									<tr>
+										<td><b>@item.TestimonialId</b></td>
+										<td>@item.TestimonialName</td>
+										<td>@item.Title</td>
+										<td>@item.Description"</td>
+										<td align="center">
+											<img src="@item.TestimonialImageUrl" alt="@item.TestimonialName" class="img-thumbnail" style="width:120px" />
+										</td>
+										<td>
+											<a href="/AdminTestimonial/UpdateTestimonial/@item.TestimonialId" class=" btn btn-warning btn-sm" style="font-size: 12px"><i class="fa-solid fa-pencil fa-sm me-1"></i> Update</a>
+											<br /><br />
+											<a href="/AdminTestimonial/DeleteTestimonial/@item.TestimonialId" class="btn btn-danger btn-sm" style="font-size: 12px"><i class="fa-solid fa-trash fa-sm me-1"></i> Delete</a>
+										</td>
+									</tr>
+								}
+							</tbody>
+						</table>
+						<a href="/AdminTestimonial/AddNewTestimonial/" class="btn btn-success" style="font-size: 12px"><i class="fa-solid fa-plus fa-sm me-2"> Add New Testimonial</i></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+

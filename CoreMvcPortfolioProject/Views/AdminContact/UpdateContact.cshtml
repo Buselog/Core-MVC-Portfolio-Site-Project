@@ -1,0 +1,52 @@
+﻿@model CoreMvcPortfolioProject.DAL.Entities.Contact
+@{
+    ViewData["Title"] = "UpdateContact";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<div class="card-title">Update Contact Page</div>
+					</div>
+					<div class="card-body">
+						<form method="post">
+							<input type="hidden" asp-for="ContactId" class="form-control" />
+
+							<label>Title</label>
+							<br /><br />
+							<input type="text" asp-for="Title" class="form-control" />
+							<span asp-validation-for="Title" class="text-danger"></span>
+							<br />
+							<label>Description</label>
+							<br /><br />
+							<input type="text" asp-for="Description" class="form-control" />
+							<span asp-validation-for="Description" class="text-danger"></span>
+							<br />
+							<label>Phone</label>
+							<br /><br />
+							<input type="text" asp-for="Phone" class="form-control" />
+							<span asp-validation-for="Phone" class="text-danger"></span>
+							<br />
+							<label>Mail</label>
+							<br /><br />
+							<input type="text" asp-for="Mail" class="form-control" />
+							<span asp-validation-for="Mail" class="text-danger"></span>
+							<br />
+							<label>Address</label>
+							<br /><br />
+							<input type="text" asp-for="Address" class="form-control" />
+							<span asp-validation-for="Address" class="text-danger"></span>
+							<br />
+							<button class="btn btn-success btn-sm" style="font-size: 12px"><i class="fa-solid fa-pencil fa-sm me-2"> Save Changes</i></button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+

@@ -1,0 +1,22 @@
+﻿@model List<CoreMvcPortfolioProject.DAL.Entities.Skill>
+
+@{
+	string skillBar = "";
+}
+
+
+<div class="col-six tab-full right">
+	<h3>About My Software Skill</h3>
+
+	<ul class="skill-bars">
+		@foreach(var item in Model){
+
+			skillBar = "progress percent"+item.SkillValue;
+
+			<li>
+				<div class="@skillBar"><span>@item.SkillValue%</span></div>
+				<strong>@item.SkillName</strong>
+			</li>
+		}
+	</ul>
+</div>

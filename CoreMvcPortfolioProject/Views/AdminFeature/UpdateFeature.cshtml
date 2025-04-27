@@ -1,0 +1,36 @@
+﻿@model CoreMvcPortfolioProject.DAL.Entities.Feature
+@{
+    ViewData["Title"] = "UpdateFeature";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<div class="card-title"> Update Feature Page</div>
+					</div>
+					<div class="card-body">
+						<form method="post">
+							<input type="hidden" asp-for="FeatureId" class="form-control" />
+							<label>Feature Title</label>
+							<br /><br />
+							<input type="text" asp-for="Title" class="form-control" />
+							<br />
+							<label>Feature Description</label>
+							<br /><br />
+							<input type="text" asp-for="Description" class="form-control" />
+							<br />
+							<button class="btn btn-success btn-sm" style="font-size: 12px"><i class="fa-solid fa-pencil fa-sm me-2"> Save Changes</i></button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+

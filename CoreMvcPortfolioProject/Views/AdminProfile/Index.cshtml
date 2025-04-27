@@ -1,0 +1,65 @@
+﻿@model CoreMvcPortfolioProject.DAL.Entities.Admin
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<div class="card-title">Admin Profile</div>
+					</div>
+					<div class="card-body">
+						<form method="post" enctype="multipart/form-data">
+
+							<input type="hidden" asp-for="AdminId" class="form-control" />
+
+							<label>Name</label>
+							<br /><br />
+							<input type="text" asp-for="Name" class="form-control" />
+							<br />
+							<label>Surname</label>
+							<br /><br />
+							<input type="text" asp-for="Surname" class="form-control" />
+							<br />
+							<label>Email</label>
+							<br /><br />
+							<input type="text" asp-for="Email" class="form-control" />
+							<br />
+
+							<label>Password</label>
+							<br /><br />
+							<input type="text" readonly="readonly" asp-for="Password" class="form-control" />
+							<br />
+
+							@if (Model != null && !string.IsNullOrEmpty(Model.ImageUrl))
+							{
+								<div class="mt-2">
+									<p>Current Image</p>
+									<img src="@Model.ImageUrl" style="width:100px; height:100px" class="img-thumbnail" />
+								</div>
+								<br />
+								
+							}
+
+							<input type="text" readonly="readonly" asp-for="ImageUrl" class="form-control" />
+							<br />
+
+							<label>Download Image</label>
+							<br />
+							<input type="file" asp-for="ImageFile" class="form-control" />
+
+							<br />
+							<button class="btn btn-success btn-sm" style="font-size: 12px"> Save Changes</button>
+							&nbsp;
+							<a href="/AdminProfile/ChangePassword" class="btn btn-info btn-sm" style="font-size: 12px">Change Password</a>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

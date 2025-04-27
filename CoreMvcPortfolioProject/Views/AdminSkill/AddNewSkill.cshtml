@@ -1,0 +1,38 @@
+﻿@model CoreMvcPortfolioProject.DAL.Entities.Skill
+@{
+    ViewData["Title"] = "AddNewSkill";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<div class="card-title">Add New Skill Page</div>
+					</div>
+					<div class="card-body">
+						<form method="post">
+
+							<label>Skill Name</label>
+							<br /><br />
+							<input type="text" asp-for="SkillName" class="form-control" />
+							<span asp-validation-for="SkillName" class="text-danger"></span>
+							<br />
+							<label>Skill Value</label>
+							<br /><br />
+							<input type="text" asp-for="SkillValue" class="form-control" />
+							<span asp-validation-for="SkillValue" class="text-danger"></span>
+							<br />
+							<button class="btn btn-success btn-sm" style="font-size: 12px"><i class="fa-regular fa-circle-check fa-sm me-2"> Add This Skill</i></button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+

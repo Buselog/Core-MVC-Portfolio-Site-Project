@@ -1,0 +1,77 @@
+﻿@model List<CoreMvcPortfolioProject.DAL.Entities.Message>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<div class="card-title">Message List</div>
+					</div>
+					<div class="card-body">
+						<table class="table table-hover">
+							<thead>
+								<tr>
+									<th scope="col"><b>Sender Name</b></th>
+									<th scope="col"><b>Message Content</b></th>
+									<th scope="col"><b>Email</b></th>
+									<th scope="col"><b>Send Date</b></th>
+									<th scope="col"><b>Is Read</b></th>
+									<th scope="col"><b>Operations</b></th>
+								</tr>
+							</thead>
+							<tbody>
+								@foreach (var item in Model)
+								{
+									<tr>
+										<td><b>@item.SenderName</b></td>
+										<td>@item.MessageContent</td>
+										<td><a href="mailto:@item.Email">@item.Email</a></td>
+										<td>@item.SendDate</td>
+										@switch (item.IsRead)
+										{
+											case false:
+												<td style="color:red" align="center"><b>@item.IsRead</b></td>
+												break;
+
+											case true:
+												<td style="color: green" align="center"><b>@item.IsRead</b></td>
+												break;
+
+											default:
+												<td><b>@item.IsRead</b></td>
+												break;
+										}
+										<td>
+											<a href="/AdminMessage/ChangeIsRead/@item.MessageId" class=" btn btn-warning btn-sm" style="font-size: 12px"><i class="fa-solid fa-pencil fa-sm me-1"></i> Change</a>
+											<br /><br />
+											<a href="/AdminMessage/DeleteMessage/@item.MessageId" class="btn btn-danger btn-sm" style="font-size: 12px"><i class="fa-solid fa-trash fa-sm me-1"></i> Delete</a>
+										</td>
+									</tr>
+								}
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+@* <td align="center" class="px-10 py-2">
+
+	<a href="/AdminReservation/ApproveReservation/@item.ReservationId" class="btn btn-check gradient-7 row-cols-2 mb-2 w-100">Approve</a>
+	<br />
+	<br />
+	<a href="/AdminReservation/HoldReservation/@item.ReservationId" class="btn btn-check gradient-9 row-cols-2 mb-2 w-100"> Hold</a>
+	<br />
+	<br />
+	<a href="/AdminReservation/RejectReservation/@item.ReservationId" class="btn btn-check gradient-2 row-cols-2 mb-2 w-100">Reject</a>
+</td> *@

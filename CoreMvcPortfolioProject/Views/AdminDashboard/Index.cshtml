@@ -1,0 +1,208 @@
+﻿@{
+	var Last4Skills = ViewBag.Last4Skills as List<CoreMvcPortfolioProject.DAL.Entities.Skill>;
+	var Messages = ViewBag.Messages as List<CoreMvcPortfolioProject.DAL.Entities.Message>;
+}
+
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+			<h4 class="page-title">Dashboard</h4>
+			<div class="row">
+				<div class="col-md-3">
+					<div class="card card-stats card-warning">
+						<div class="card-body ">
+							<div class="row">
+								<div class="col-5">
+									<div class="icon-big text-center">
+										<i class="la la-code-fork"></i>
+									</div>
+								</div>
+								<div class="col-7 d-flex align-items-center">
+									<div class="numbers">
+										<p class="card-category">Project</p>
+										<h4 class="card-title">@ViewBag.ProjectCount</h4>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="card card-stats card-success">
+						<div class="card-body ">
+							<div class="row">
+								<div class="col-5">
+									<div class="icon-big text-center">
+										<i class="la la-bar-chart"></i>
+									</div>
+								</div>
+								<div class="col-7 d-flex align-items-center">
+									<div class="numbers">
+										<p class="card-category">Skill Average</p>
+										<h4 class="card-title">@ViewBag.SkillAverage</h4>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="card card-stats card-danger">
+						<div class="card-body">
+							<div class="row">
+								<div class="col-5">
+									<div class="icon-big text-center">
+										<i class="la la-comments"></i>
+									</div>
+								</div>
+								<div class="col-7 d-flex align-items-center">
+									<div class="numbers">
+										<p class="card-category">Message</p>
+										<h4 class="card-title">@ViewBag.MessageCount</h4>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="card card-stats card-primary">
+						<div class="card-body ">
+							<div class="row">
+								<div class="col-5">
+									<div class="icon-big text-center">
+										<i class="la la-exclamation"></i>
+									</div>
+								</div>
+								<div class="col-7 d-flex align-items-center">
+									<div class="numbers">
+										<p class="card-category">Unread Message</p>
+										<h4 class="card-title">@ViewBag.UnreadMessageCount</h4>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+
+			<div class="row row-card-no-pd">
+				<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<p class="fw-bold mt-1">Skill Average</p>
+							<h4><b>@ViewBag.SkillAverage</b></h4>
+							<a href="/AdminSkill/Index/" class="btn btn-primary btn-full text-left mt-3 mb-3"><i class="la la-rocket"></i> View Skill Table
+							</a>
+						</div>
+						<div class="card-footer">
+							<a href="/AdminProject/AddNewProject/" class="btn btn-success btn-full text-left mt-3 mb-3">
+								<i class="la la-plus"></i> Add New Project
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-5">
+					<div class="card">
+						<div class="card-body">
+							<p class="fw-bold mt-1">Last Added Skill</p>
+							@foreach(var item in Last4Skills){
+								<div class="progress-card">
+									<div class="d-flex justify-content-between mb-1">
+										<span class="text-muted">@item.SkillName</span>
+										<span class="text-muted fw-bold">%@item.SkillValue</span>
+									</div>
+									<div class="progress mb-2" style="height: 7px;">
+										<div class="progress-bar bg-success" role="progressbar" style="width: @item.SkillValue%" aria-valuenow="@item.SkillValue" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="top" title="@item.SkillValue%"></div>
+									</div>
+								</div>
+							}
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="card card-stats">
+						<div class="card-body">
+							<p class="fw-bold mt-1">Statistic</p>
+							<div class="row">
+								<div class="col-5">
+									<div class="icon-big text-center icon-warning">
+										<i class="la la-lightbulb-o text-warning"></i>
+									</div>
+								</div>
+								<div class="col-7 d-flex align-items-center">
+									<div class="numbers">
+										<p class="card-category">Experience</p>
+										<h4 class="card-title">@ViewBag.ExperienceCount</h4>
+										
+									</div>
+								</div>
+								<p class="card-category">Present: @ViewBag.LastExperienceName</p>
+							</div>
+							<hr />
+							<div class="row">
+								<div class="col-5">
+									<div class="icon-big text-center">
+										<i class="la la-heart-o text-primary"></i>
+									</div>
+								</div>
+								<div class="col-7 d-flex align-items-center">
+									<div class="numbers">
+										<p class="card-category">Testimonial</p>
+										<h4 class="card-title">+@ViewBag.TestimonialCount</h4>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header ">
+						<h4 class="card-title">Message Table</h4>
+						<p class="card-category">messages send: @ViewBag.MessageCount</p>
+					</div>
+					<div class="card-body">
+						<table class="table table-head-bg-success table-striped table-hover">
+							<thead>
+								<tr>
+									<th scope="col">Sender</th>
+									<th scope="col">Mail</th>
+									<th scope="col">Title</th>
+									<th scope="col">Message</th>
+									<th scope="col">Date</th>
+								</tr>
+							</thead>
+							<tbody>
+
+								@foreach(var item in Messages){
+									<tr>
+										<td>@item.SenderName</td>
+										<td>@item.Email</td>
+										<td>@item.Subject</td>
+										<td>@item.MessageContent</td>
+										<td>@item.SendDate.ToShortDateString()</td>
+									</tr>
+								}
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+

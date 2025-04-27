@@ -1,0 +1,1097 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CoreMvcPortfolioProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CoreMvcPortfolioProject.fzjd6lufkt.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\LICENSE",
+      "PackagePath": "staticwebassets\\adminpanel"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\README.md",
+      "PackagePath": "staticwebassets\\adminpanel\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\css\\ready.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\ready.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\css\\ready.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\ready.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\css\\ready.min.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\ready.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\fonts\\line-awesome.eot",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\line-awesome.eot"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\fonts\\line-awesome.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\line-awesome.svg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\fonts\\line-awesome.ttf",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\line-awesome.ttf"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\fonts\\line-awesome.woff",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\line-awesome.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\fonts\\line-awesome.woff2",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\line-awesome.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\img\\menu.png",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\img\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\img\\menu2.png",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\img\\menu2.png"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\img\\profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\img\\profile2.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\img\\profile2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\core\\jquery.3.2.1.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\core\\jquery.3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\demo.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\chart-circle\\circles.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\chart-circle\\circles.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\chartist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\chartist\\chartist.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\chartist\\plugin\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\chartist\\plugin\\chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\jquery.mapael.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\jquery.mapael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\README.txt",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\plugin\\jquery-ui-1.12.1.custom\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\plugin\\jquery-ui-1.12.1.custom\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\ready.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\ready.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\js\\ready.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\ready.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\_background.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\_components.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\_layouts.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\_line-awesome.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\_line-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\_outlinefocus.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\_outlinefocus.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\_plugins.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\_plugins.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\_responsive.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\_typography.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\_variables.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\components\\_alerts.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\components\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\components\\_charts.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\components\\_charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\components\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\components\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\components\\_inputs.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\components\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\components\\_maps.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\components\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\components\\_modals.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\components\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\components\\_navbars.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\components\\_navbars.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\components\\_navpills.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\components\\_navpills.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\components\\_navsearch.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\components\\_navsearch.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\components\\_paginations.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\components\\_paginations.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\components\\_sliders.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\components\\_sliders.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\plugins\\_chartist.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\plugins\\_chartist.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\plugins\\_jqueryscrollbar.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\plugins\\_jqueryscrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\plugins\\_jqueryui.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\plugins\\_jqueryui.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\assets\\sass\\ready\\plugins\\_toggle.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\sass\\ready\\plugins\\_toggle.scss"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\components.html",
+      "PackagePath": "staticwebassets\\adminpanel\\components.html"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\forms.html",
+      "PackagePath": "staticwebassets\\adminpanel\\forms.html"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\icons.html",
+      "PackagePath": "staticwebassets\\adminpanel\\icons.html"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\index.html",
+      "PackagePath": "staticwebassets\\adminpanel\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\notifications.html",
+      "PackagePath": "staticwebassets\\adminpanel\\notifications.html"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\tables.html",
+      "PackagePath": "staticwebassets\\adminpanel\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\adminpanel\\typography.html",
+      "PackagePath": "staticwebassets\\adminpanel\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\cv\\sultanbusegorcum.CV.pdf",
+      "PackagePath": "staticwebassets\\cv\\sultanbusegorcum.CV.pdf"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\images\\227ddfb9-ed1e-49f6-bec7-c7e6cd912918.jpg",
+      "PackagePath": "staticwebassets\\images\\227ddfb9-ed1e-49f6-bec7-c7e6cd912918.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\css\\main.css",
+      "PackagePath": "staticwebassets\\login\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\images\\bg-heading-03.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\bg-heading-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\index.html",
+      "PackagePath": "staticwebassets\\login\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\js\\global.js",
+      "PackagePath": "staticwebassets\\login\\js\\global.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\readme.txt",
+      "PackagePath": "staticwebassets\\login\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\datepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\datepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\datepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\datepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\datepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\datepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\font-awesome-4.7\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\login\\vendor\\font-awesome-4.7\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\font-awesome-4.7\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\font-awesome-4.7\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\font-awesome-4.7\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\font-awesome-4.7\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\font-awesome-4.7\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\login\\vendor\\font-awesome-4.7\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\login\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\login\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\login\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\login\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\login\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\mdi-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\mdi-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\mdi-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\mdi-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\login\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\login\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\login\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\login\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\login\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\login\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\blog-single.html",
+      "PackagePath": "staticwebassets\\portfolio\\blog-single.html"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\blog.html",
+      "PackagePath": "staticwebassets\\portfolio\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\css\\base.css",
+      "PackagePath": "staticwebassets\\portfolio\\css\\base.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\portfolio\\css\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\css\\iconic\\css\\iconmonstr-iconic-font.css",
+      "PackagePath": "staticwebassets\\portfolio\\css\\iconic\\css\\iconmonstr-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\css\\iconic\\css\\iconmonstr-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\portfolio\\css\\iconic\\css\\iconmonstr-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\css\\iconic\\fonts\\iconmonstr-iconic-font.eot",
+      "PackagePath": "staticwebassets\\portfolio\\css\\iconic\\fonts\\iconmonstr-iconic-font.eot"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\css\\iconic\\fonts\\iconmonstr-iconic-font.ttf",
+      "PackagePath": "staticwebassets\\portfolio\\css\\iconic\\fonts\\iconmonstr-iconic-font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\css\\iconic\\fonts\\iconmonstr-iconic-font.woff",
+      "PackagePath": "staticwebassets\\portfolio\\css\\iconic\\fonts\\iconmonstr-iconic-font.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\css\\iconic\\fonts\\iconmonstr-iconic-font.woff2",
+      "PackagePath": "staticwebassets\\portfolio\\css\\iconic\\fonts\\iconmonstr-iconic-font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\css\\main.css",
+      "PackagePath": "staticwebassets\\portfolio\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\portfolio\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\favicon.ico",
+      "PackagePath": "staticwebassets\\portfolio\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\librebaskerville\\librebaskerville-bold-webfont.woff",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\librebaskerville\\librebaskerville-bold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\librebaskerville\\librebaskerville-bold-webfont.woff2",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\librebaskerville\\librebaskerville-bold-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\librebaskerville\\librebaskerville-italic-webfont.woff",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\librebaskerville\\librebaskerville-italic-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\librebaskerville\\librebaskerville-italic-webfont.woff2",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\librebaskerville\\librebaskerville-italic-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\librebaskerville\\librebaskerville-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\librebaskerville\\librebaskerville-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\librebaskerville\\librebaskerville-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\librebaskerville\\librebaskerville-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-black-webfont.woff",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-black-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-black-webfont.woff2",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-black-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-bold-webfont.woff",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-bold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-bold-webfont.woff2",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-bold-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-extrabold-webfont.woff",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-extrabold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-extrabold-webfont.woff2",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-extrabold-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-extralight-webfont.woff",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-extralight-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-extralight-webfont.woff2",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-extralight-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-light-webfont.woff",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-light-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-light-webfont.woff2",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-light-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-medium-webfont.woff",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-medium-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-medium-webfont.woff2",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-medium-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-semibold-webfont.woff",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-semibold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-semibold-webfont.woff2",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-semibold-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-thin-webfont.woff",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-thin-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\fonts\\montserrat\\montserrat-thin-webfont.woff2",
+      "PackagePath": "staticwebassets\\portfolio\\fonts\\montserrat\\montserrat-thin-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\avatars\\user-01.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\avatars\\user-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\avatars\\user-02.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\avatars\\user-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\avatars\\user-03.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\avatars\\user-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\avatars\\user-04.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\avatars\\user-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\avatars\\user-05.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\avatars\\user-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\blog\\blog-bg-01.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\blog\\blog-bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\blog\\blog-bg-02.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\blog\\blog-bg-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\count-bg.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\count-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\images_Login.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\images_Login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\images_coding.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\images_coding.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\images_me.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\images_me.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\images_testimonials.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\images_testimonials.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\logo.png",
+      "PackagePath": "staticwebassets\\portfolio\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\photoswipe\\default-skin.png",
+      "PackagePath": "staticwebassets\\portfolio\\images\\photoswipe\\default-skin.png"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\photoswipe\\default-skin.svg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\photoswipe\\default-skin.svg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\photoswipe\\preloader.gif",
+      "PackagePath": "staticwebassets\\portfolio\\images\\photoswipe\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\beetle.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\beetle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\beetle@2x.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\beetle@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\gallery\\g-beetle.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\gallery\\g-beetle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\gallery\\g-bicycle.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\gallery\\g-bicycle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\gallery\\g-liberty.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\gallery\\g-liberty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\gallery\\g-lighthouse.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\gallery\\g-lighthouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\gallery\\g-minimalismo.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\gallery\\g-minimalismo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\gallery\\g-salad.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\gallery\\g-salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\gallery\\g-shutterbug.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\gallery\\g-shutterbug.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\gallery\\g-skaterboy.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\gallery\\g-skaterboy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\gallery\\g-woodcraft.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\gallery\\g-woodcraft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\liberty.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\liberty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\liberty@2x.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\liberty@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\lighthouse.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\lighthouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\lighthouse@2x.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\lighthouse@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\minimalismo.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\minimalismo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\minimalismo@2x.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\minimalismo@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\salad.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\salad@2x.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\salad@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\shutterbug.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\shutterbug.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\shutterbug@2x.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\shutterbug@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\skaterboy.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\skaterboy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\skaterboy@2x.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\skaterboy@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\woodcraft.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\woodcraft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\portfolio\\woodcraft@2x.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\portfolio\\woodcraft@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\project_1.png",
+      "PackagePath": "staticwebassets\\portfolio\\images\\project_1.png"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\project_2.png",
+      "PackagePath": "staticwebassets\\portfolio\\images\\project_2.png"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\project_3.png",
+      "PackagePath": "staticwebassets\\portfolio\\images\\project_3.png"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\project_4.png",
+      "PackagePath": "staticwebassets\\portfolio\\images\\project_4.png"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\project_5.png",
+      "PackagePath": "staticwebassets\\portfolio\\images\\project_5.png"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\project_6.png",
+      "PackagePath": "staticwebassets\\portfolio\\images\\project_6.png"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\sample-image.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\sample-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\testimonial-bg.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\testimonial-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\wheel-1000.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\wheel-1000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\wheel-2000.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\wheel-2000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\images\\wheel-500.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\images\\wheel-500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\inc\\sendEmail.php",
+      "PackagePath": "staticwebassets\\portfolio\\inc\\sendEmail.php"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\index.html",
+      "PackagePath": "staticwebassets\\portfolio\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\portfolio\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\js\\main.js",
+      "PackagePath": "staticwebassets\\portfolio\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\portfolio\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\portfolio\\js\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\portfolio\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\readme.txt",
+      "PackagePath": "staticwebassets\\portfolio\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\BUSE\\source\\repos\\CoreMvcPortfolioProject\\wwwroot\\portfolio\\styles.html",
+      "PackagePath": "staticwebassets\\portfolio\\styles.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CoreMvcPortfolioProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CoreMvcPortfolioProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CoreMvcPortfolioProject.props",
+      "PackagePath": "build\\CoreMvcPortfolioProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CoreMvcPortfolioProject.props",
+      "PackagePath": "buildMultiTargeting\\CoreMvcPortfolioProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CoreMvcPortfolioProject.props",
+      "PackagePath": "buildTransitive\\CoreMvcPortfolioProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

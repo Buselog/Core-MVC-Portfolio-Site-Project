@@ -1,0 +1,54 @@
+﻿@model CoreMvcPortfolioProject.DAL.Entities.Projects
+@{
+    ViewData["Title"] = "UpdateProject";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<div class="card-title">Update Project Page</div>
+					</div>
+					<div class="card-body">
+						<form method="post">
+							<input type="hidden" asp-for="ProjectsId" class="form-control" />
+
+							<label>Title (Project Name)</label>
+							<br /><br />
+							<input type="text" asp-for="Title" class="form-control" />
+							<span asp-validation-for="Title" class="text-danger"></span>
+							<br />
+							<label>Subtitle</label>
+							<br /><br />
+							<input type="text" asp-for="Subtitle" class="form-control" />
+							<span asp-validation-for="Subtitle" class="text-danger"></span>
+							<br />
+							<label>Description</label>
+							<br /><br />
+							<input type="text" asp-for="ProjectDescription" class="form-control" />
+							<span asp-validation-for="ProjectDescription" class="text-danger"></span>
+							<br />
+							<label>Project Url</label>
+							<br /><br />
+							<input type="text" asp-for="ProjectUrl" class="form-control" />
+							<span asp-validation-for="ProjectUrl" class="text-danger"></span>
+							<br />
+							<label>Project Image Url</label>
+							<br /><br />
+							<input type="text" asp-for="ProjectImageUrl" class="form-control" />
+							<span asp-validation-for="ProjectImageUrl" class="text-danger"></span>
+							<br />
+							<button class="btn btn-success btn-sm" style="font-size: 12px"><i class="fa-solid fa-pencil fa-sm me-2"> Save Changes</i></button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+

@@ -1,0 +1,38 @@
+﻿@model CoreMvcPortfolioProject.DAL.Entities.About
+@{
+    ViewData["Title"] = "UpdateAbout";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<div class="card-title"> Update About Page</div>
+					</div>
+					<div class="card-body">
+						<form method="post">
+							<input type="hidden" asp-for="AboutId" class="form-control" />
+							<label>About Title</label>
+							<br /><br />
+							<input type="text" asp-for="Title" class="form-control" />
+							<br />
+							<label>Subdescription</label>
+							<br /><br />
+							<input type="text" asp-for="SubDescription" class="form-control" />
+							<br />
+							<label>Detail</label>
+							<br /><br />
+							<input type="text" asp-for="Detail" class="form-control" />
+							<br />
+							<button class="btn btn-success btn-sm" style="font-size: 12px"><i class="fa-solid fa-pencil fa-sm me-2"> Save Changes</i></button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+

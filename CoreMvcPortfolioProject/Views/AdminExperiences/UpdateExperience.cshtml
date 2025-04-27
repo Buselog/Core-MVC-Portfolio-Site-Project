@@ -1,0 +1,46 @@
+﻿@model CoreMvcPortfolioProject.DAL.Entities.Experience
+@{
+    ViewData["Title"] = "UpdateExperience";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<div class="card-title">Update Experience Page</div>
+					</div>
+					<div class="card-body">
+						<form method="post">
+							<input type="hidden" asp-for="ExperienceId" class="form-control" />
+
+							<label>Head (Company Name)</label>
+							<br /><br />
+							<input type="text" asp-for="Head" class="form-control" />
+							<span asp-validation-for="Head" class="text-danger"></span>
+							<br />
+							<label>Title</label>
+							<br /><br />
+							<input type="text" asp-for="Title" class="form-control" />
+							<span asp-validation-for="Title" class="text-danger"></span>
+							<br />
+							<label>Date</label>
+							<br /><br />
+							<input type="text" asp-for="Date" class="form-control" />
+							<span asp-validation-for="Date" class="text-danger"></span>
+							<br />
+							<label>Description</label>
+							<br /><br />
+							<input type="text" asp-for="Description" class="form-control" />
+							<span asp-validation-for="Description" class="text-danger"></span>
+							<br />
+							<button class="btn btn-success btn-sm" style="font-size: 12px"><i class="fa-solid fa-pencil fa-sm me-2"> Save Changes</i></button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+

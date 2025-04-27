@@ -1,0 +1,53 @@
+﻿
+<section id="about" class="s-about target-section">
+
+	<div class="row narrow section-intro has-bottom-sep">
+		<div class="col-full text-center">
+			<h3>About</h3>
+			<h1>@ViewBag.Title</h1>
+			<img src="/portfolio/images/images_me.jpg" style="width: 250px"/>
+			<br /><br />
+			<p class="lead">@ViewBag.SubDescription</p>
+		</div>
+	</div>
+
+	<div class="row about-content">
+
+	<!-- AboutMeComponentPartial  -->
+
+	@await Component.InvokeAsync("_AboutMeComponentPartial")
+
+	<!--End AboutMeComponentPartial-->
+
+
+	<!--MySoftwareSkillComponentPartial-->
+
+	@await Component.InvokeAsync("_SkillComponentPartial")
+
+	<!--End MySoftwareSkillComponentPartial -->
+
+	</div> <!-- end about-content -->
+
+	<div class="row about-content about-content--buttons">
+
+		<div class="col-six tab-full left">
+			<a href="/cv/sultanbusegorcum.CV.pdf" target="_blank" class="btn btn--primary full-width">Download My CV</a>
+		</div>
+		<div class="col-six tab-full right">
+			<a href="#works" class="btn full-width">Check out my projects</a>
+		</div>
+
+	</div> <!-- end about-content buttons -->
+
+
+	<!-- ExperienceComponentPartial-->
+
+	@await Component.InvokeAsync("_ExperienceComponentPartial")
+
+	<!--End ExperienceComponentPartial-->
+
+
+
+ <!-- end about-content timeline -->
+
+</section>

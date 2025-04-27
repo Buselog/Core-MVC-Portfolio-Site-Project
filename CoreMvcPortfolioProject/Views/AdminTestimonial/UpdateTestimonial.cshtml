@@ -1,0 +1,47 @@
+﻿@model CoreMvcPortfolioProject.DAL.Entities.Testimonial
+@{
+    ViewData["Title"] = "UpdateTestimonial";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<div class="card-title">Update Testimonial Page</div>
+					</div>
+					<div class="card-body">
+						<form method="post">
+							<input type="hidden" asp-for="TestimonialId" class="form-control" />
+
+							<label>Testimonial Name</label>
+							<br /><br />
+							<input type="text" asp-for="TestimonialName" class="form-control" />
+							<span asp-validation-for="TestimonialName" class="text-danger"></span>
+							<br />
+							<label>Title</label>
+							<br /><br />
+							<input type="text" asp-for="Title" class="form-control" />
+							<span asp-validation-for="Title" class="text-danger"></span>
+							<br />
+							<label>Description</label>
+							<br /><br />
+							<input type="text" asp-for="Description" class="form-control" />
+							<span asp-validation-for="Description" class="text-danger"></span>
+							<br />
+							<label>Image Url</label>
+							<br /><br />
+							<input type="text" asp-for="TestimonialImageUrl" class="form-control" />
+							<span asp-validation-for="TestimonialImageUrl" class="text-danger"></span>
+							<br />
+							<button class="btn btn-success btn-sm" style="font-size: 12px"><i class="fa-solid fa-pencil fa-sm me-2"> Save Changes</i></button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+

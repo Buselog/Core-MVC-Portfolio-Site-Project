@@ -1,0 +1,27 @@
+﻿@{
+	Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+
+@await Component.InvokeAsync("_ALHeadComponentPartial")
+
+<body>
+	<div class="wrapper">
+
+		@await Component.InvokeAsync("_ALNavbarComponentPartial")
+
+		@await Component.InvokeAsync("_ALSidebarComponentPartial")
+
+		@RenderBody()
+
+	</div>
+
+	@await Component.InvokeAsync("_ALScriptComponentPartial")
+
+	@await Component.InvokeAsync("_ALFooterComponentPartial")
+
+</body>
+
+</html>
