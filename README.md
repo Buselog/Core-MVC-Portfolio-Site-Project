@@ -1,4 +1,4 @@
-# 🚀 Asp .Net Core MVC - Admin Panelli Portföy Sitesi Projesi
+# 🚀 Asp .Net Core MVC ile Admin Panelli Portföy Sitesi Projesi
 
 Bu proje, ASP.NET Core MVC ve Code First yöntemi kullanılarak geliştirilmiş admin panelli dinamik bir kişisel portföy sitesidir. Site içerisinde kişisel bilgilerim, indirilebilir özgeçmişim, referanslarım, yayınladığım projeler ve deneyimler kısmı mevcuttur. Kullanıcıların istek ve önerilerini iletebilecekleri; mesajların admin paneli ve veritabanına başarıyla kaydedildiği dinamik bir contact alanı kullanıcıları karşılamaktadır. 
 Portföy sitesi verilerinin yönetimi için kullanıcı dostu bir admin paneli de projede yer almaktadır.
