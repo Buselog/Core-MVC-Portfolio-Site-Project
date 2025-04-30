@@ -75,6 +75,10 @@ Portföy sitesi verilerinin yönetimi için kullanıcı dostu bir admin paneli d
 
 <img src="https://github.com/user-attachments/assets/fde7dc43-738c-419d-9921-8214c021efc6" width:700>
 
+###### ✉️ Contact Section
+
+<img src="https://github.com/user-attachments/assets/63da32ad-7b7f-4902-8fad-25ab96452e34" width:700>
+
 ###### 🔌 Footer Section
 
 <img src="https://github.com/user-attachments/assets/436b23c4-5a4b-4183-9163-a159d603010d" width:700>
