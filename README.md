@@ -9,7 +9,8 @@ Portföy sitesi verilerinin yönetimi için kullanıcı dostu bir admin paneli d
 
 ###### 🌟 ASP.NET Core MVC
 
-    - ViewComponent kullanımı ve responsive tasarım prensipleriyle geliştirilen, modern ve ölçeklenebilir bir proje geliştirimi.
+    - ViewComponent kullanımı ve responsive tasarım prensipleriyle geliştirilen, 
+      modern ve ölçeklenebilir bir proje geliştirimi.
     
 ###### 🌟 Entity Framework Core ile Veritabanı İşlemleri( SQL Server - Code First Yaklaşım)
 
